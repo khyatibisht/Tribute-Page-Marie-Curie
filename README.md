@@ -1,4 +1,4 @@
 # freeCodeCamp-Responsive-Web-Design-Certification
-Projects completed under FCC Responsive Web Design Course are uploaded here.
+Project completed under FCC Responsive Web Design Course is uploaded here- Tribute Page to my inspiration- Marie Curie.
 
 
