@@ -7,3 +7,5 @@ Tribute Page to my inspiration in STEM- Marie Curie.
 
 See the working project at 
 : https://khyatibisht.github.io/Tribute-Page-Marie-Curie/
+
+<!--- add images -->
